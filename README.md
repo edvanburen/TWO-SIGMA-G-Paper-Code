@@ -91,7 +91,7 @@ to avoid repeating computation later.
 ## (2) set_level_simulation_code.R and set_level_summary_statistic_simulation_code.R
 
 These two scripts accomplish the following, for the simulations
-using the raw data and summary statistics, respectivey:
+using the raw data and summary statistics, respectively:
 
  1. Constructs test and reference sets for each scenario
  by randomly sampling genes from matched null and alternative
