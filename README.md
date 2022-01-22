@@ -4,7 +4,7 @@
  
 **TWO-SIGMA-G bioRxiv preprint**:
 
-TWO-SIGMA-G: A New Competitive Gene Set Testing Ffamework for scRNA-seq Data Accounting for Inter-Gene and Cell-Cell Correlation: doi: https://doi.org/10.1101/2021.01.24.427979
+TWO-SIGMA-G: A New Competitive Gene Set Testing Framework for scRNA-seq Data Accounting for Inter-Gene and Cell-Cell Correlation: doi: https://doi.org/10.1101/2021.01.24.427979
 
 ## Contact
 
